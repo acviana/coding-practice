@@ -9,9 +9,9 @@ All modules were written with Python 3.7 in mind and contain tests where ever ap
 
 ## Manifest
 
- - `binary_math.py`: A class that implements binary math using strings at the underlaying data structure.
+ - `binary_math.py`: A class that implements binary math using strings at the underlaying data structure [Work in Progress].
  - `calculator.py`: Puzzle to write an "calculator" that performs addition and subtraction on an input string of numbers.
- - `dna_compression.py`: ASCII to binary DNA compression exercise from CCSPIP [Work in Progress].
+ - `dna_compression.py`: ASCII to binary DNA compression exercise from CCSPIP.
  - `fibonacci.py`: Various ways of generating the Fibonacci series.
  - `generator.py`: A number vision puzzle using generators.
  - `password_checker.py`: A password input validation puzzle.
