@@ -31,7 +31,7 @@ class BinaryNumber:
                 f'_swap_bit ({other_value})'
             )
 
-     def __invert__(self):
+    def __invert__(self):
         return (
             BinaryNumber(
                 ('').join([self._swap_bit(bit) for bit in self.value])
@@ -48,6 +48,10 @@ class BinaryNumber:
         return f'{self.value} ({self._to_int()})'
 
     def __xor__(self, binary_number):
+        if not isinstance(binary_number, BinaryNumber):
+            raise TypeError(
+                f'XOR is not defined for type {type(binary_number)}'
+            )
         xor_list = [
             self._xor_bits(a, b) for a, b
             in zip(self.value, binary_number.value)
@@ -64,6 +68,10 @@ class BinaryNumber:
             return '1'
 
     def __sub__(self, binary_number):
+        if not isinstance(binary_number, BinaryNumber):
+            raise TypeError(
+                f'Subtraction is not defined for type {type(binary_number)}'
+            )
         return self.__invert__() ^ binary_number.value
 
     def _to_int(self):

@@ -31,7 +31,7 @@ These problems were taken from the book "Classic Computer Science Problems in Py
 
  - `fibonacci.py`: Various ways of generating the Fibonacci series.
  - `dna_compression.py`: ASCII to binary DNA compression exercise from CCSPIP.
- - `binary_search.py`: Impliments binary search on sorted iterables.
+ - `binary_search.py`: Implements binary search on sorted iterables.
 
 Problems are taking from around the Internet, interview questions, things I'm interested in:
 
