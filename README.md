@@ -17,11 +17,11 @@ These are two larger projects I think provide good insight into my thought proce
 
 - HubBucket: [This repository](https://github.com/acviana/hub-bucket) contains a project that runs a Flask REST API that returns and calculates GitHub user statistics gathered from either the GitHub v3 REST or v4 GraphQL APIs
 
-- AWS Big Data Architecture: This writing assignment in this repo lays out a potential AWS architecture intended to solve a variety of different use big data use cases in data science, production deployment, analytics, and monitoring.
+- `aws_big_data_architecture.md`: This writing assignment in this repo lays out a potential AWS architecture intended to solve a variety of different use big data use cases in data science, production deployment, analytics, and monitoring.
 
 ### Programming Exercises
 
-The following modules in this repo are self-motived attempts to work through coding puzzles and computer science problems. All modules were written with Python 3.7 and contain tests where ever appropriate.
+The following modules in this repo are mostly self-motived attempts to work through coding puzzles and computer science problems. All modules were written with Python 3.7 and contain tests where ever appropriate.
 
 This module in an attempt to implement a binary object class:
 
@@ -37,6 +37,7 @@ Problems are taking from around the Internet, interview questions, things I'm in
 
  - `calculator.py`: Puzzle to write an "calculator" that performs addition and subtraction on an input string of numbers.
  - `generator.py`: A number vision puzzle using generators.
+ - `knights_walk.py`: Check if a knight's walk is possible for an arbitrary chessboard using recursion.
  - `password_checker.py`: A password input validation puzzle.
  - `robot.py`: An object orienting programming puzzle that moves a "robot" with text input.
  - `word_frequency.py`: A word frequency counter puzzle.
