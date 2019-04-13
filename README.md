@@ -30,8 +30,9 @@ This module in an attempt to implement a binary object class:
 These problems were taken from the book "Classic Computer Science Problems in Python" (CCSPIP):
 
  - `fibonacci.py`: Various ways of generating the Fibonacci series.
- - `dna_compression.py`: ASCII to binary DNA compression exercise from CCSPIP.
  - `binary_search.py`: Implements binary search on sorted iterables.
+ - `dna_compression.py`: ASCII to binary DNA compression exercise from CCSPIP.
+ - `maze solver.py`: Navigate a maze using a depth-first search [Work In Progress]
 
 Problems are taking from around the Internet, interview questions, things I'm interested in:
 
