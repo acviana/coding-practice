@@ -27,7 +27,7 @@ This module in an attempt to implement a binary object class:
 
  - `binary_math.py`: A class that implements binary math using strings at the underlaying data structure [Work in Progress].
 
-These problems were taken from the book "Classic Computer Science Problems in Python" (CCSPIP):
+These problems were taken from the book _"Classic Computer Science Problems in Python"_ (CCSPIP):
 
  - `fibonacci.py`: Various ways of generating the Fibonacci series.
  - `binary_search.py`: Implements binary search on sorted iterables.
