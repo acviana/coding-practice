@@ -19,7 +19,7 @@ These are two larger projects I think provide good insight into my thought proce
 
 - `aws_big_data_architecture.md`: This writing assignment in this repo lays out a potential AWS architecture intended to solve a variety of different use big data use cases in data science, production deployment, analytics, and monitoring.
 
-### Programming Exercises
+### Python Programming Exercises
 
 The following modules in this repo are mostly self-motived attempts to work through coding puzzles and computer science problems. All modules were written with Python 3.7 and contain tests where ever appropriate.
 
@@ -27,7 +27,7 @@ This module in an attempt to implement a binary object class:
 
  - `binary_math.py`: A class that implements binary math using strings at the underlaying data structure [Work in Progress].
 
-These problems were taken from the book _"Classic Computer Science Problems in Python"_ (CCSPIP):
+These problems were taken from the book _"Classic Computer Science Problems in Python"_ (which is awesome!):
 
  - `fibonacci.py`: Various ways of generating the Fibonacci series.
  - `binary_search.py`: Implements binary search on sorted iterables.
@@ -42,3 +42,7 @@ Problems are taking from around the Internet, interview questions, things I'm in
  - `password_checker.py`: A password input validation puzzle.
  - `robot.py`: An object orienting programming puzzle that moves a "robot" with text input.
  - `word_frequency.py`: A word frequency counter puzzle.
+
+### Learning Ruby
+
+Chicago (where I'm based) has a strong Ruby community so I'm also working on picking up that language using the [Ruby Koans project])http://rubykoans.com/). My solutions to the test cases (koans) can be found in `ruby_koan_solutions`
