@@ -45,4 +45,4 @@ Problems are taking from around the Internet, interview questions, things I'm in
 
 ### Learning Ruby
 
-Chicago (where I'm based) has a strong Ruby community so I'm also working on picking up that language using the [Ruby Koans project])http://rubykoans.com/). My solutions to the test cases (koans) can be found in `ruby_koan_solutions`
+Chicago (where I'm based) has a strong Ruby community so I'm also working on picking up that language using the [Ruby Koans project](http://rubykoans.com/). My solutions to the test cases (koans) can be found in `ruby_koan_solutions`
